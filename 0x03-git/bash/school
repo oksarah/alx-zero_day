@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "The school is open!"
+=======
+>>>>>>> parent of 29bb848... re-creating bash files on update_script
